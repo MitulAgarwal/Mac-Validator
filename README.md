@@ -43,4 +43,4 @@ The validatior has 2 stages of address validation.
 
 ### Authors
 - [Darshan K S](https://github.com/darshan-k-s)
-- Mitul Agarwal
+- [Mitul Agarwal](https://github.com/MitulAgarwal)
